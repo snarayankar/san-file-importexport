@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="santoshApp.SpringStarterApplicationTests" time="0" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_60\jre\bin"/>
+    <property name="java.vm.version" value="25.60-b23"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Angular_Dev\santosh-spring-app-master"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Angular_Dev\santosh-spring-app-master"/>
+    <property name="java.runtime.version" value="1.8.0_60-b27"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Java\jdk1.8.0_60\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\SNARAY~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.3.3-bin\apache-maven-3.3.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Java\jdk1.8.0_60\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\oracle\product\11.2.0\client_1\bin;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\DATA\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\HEAT\;C:\Program Files (x86)\ASCI\ActiveBatchV8\;C:\Program Files (x86)\Subversion\bin;C:\oracle\product\11.2.0\client_1\bin;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\DATA\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\HEAT\;C:\Program Files (x86)\ASCI\ActiveBatchV8\;C:\Program Files (x86)\nodejs\;C:\Program Files (x86)\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\local\nodejs\;C:\apache-maven-3.3.3-bin\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Users\snarayankar\AppData\Roaming\npm;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\nodejs\;C:\ProgramData\Oracle\Java\javapath;C:\oracle\product\11.2.0\client_1\bin;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\;C:\Program Files (x86)\Business Objects\Common\3.5\bin\NOTES\DATA\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\HEAT\;C:\Program Files (x86)\ASCI\ActiveBatchV8\;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Enterprise Vault\EVClient\;C:\Program Files (x86)\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\local\nodejs\;C:\apache-maven-3.3.3-bin\apache-maven-3.3.3\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Users\snarayankar\AppData\Roaming\npm;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\nodejs\;C:\chocolatey\bin;C:\tools\bat;C:\tools\cmd;C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\;C:\tools;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.4\;C:\tools\heroku\bin;C:\tools\nodejs\;C:\tools\ruby22\bin;C:\Chocolatey\bin;C:\Cygwin;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\sbt\bin;C:\tools\cmder;C:\HashiCorp\Vagrant\bin;C:\python;C:\python\scripts;C:\Program Files (x86)\Skype\Phone\;C:\Python34\;C:\Python34\Scripts;C:\wget;C:\Windows\SysWOW64\Wbem;C:\Windows\SysWOW64\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Spoon\Cmd;C:\Program Files (x86)\7-Zip;C:\Users\snarayankar\AppData\Local\Spoon\Cmd;C:\Java\jdk1.8.0_60\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\snarayankar"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="snarayankar"/>
+    <property name="java.class.path" value="C:\apache-maven-3.3.3-bin\apache-maven-3.3.3\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Java\jdk1.8.0_60\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_60"/>
+    <property name="java.ext.dirs" value="C:\Java\jdk1.8.0_60\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Java\jdk1.8.0_60\jre\lib\resources.jar;C:\Java\jdk1.8.0_60\jre\lib\rt.jar;C:\Java\jdk1.8.0_60\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Java\jdk1.8.0_60\jre\lib\jce.jar;C:\Java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Java\jdk1.8.0_60\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.3.3-bin\apache-maven-3.3.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="initializationError" classname="santoshApp.SpringStarterApplicationTests" time="0">
+    <error message="Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" type="java.lang.IllegalStateException"><![CDATA[java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+	at org.springframework.util.Assert.state(Assert.java:392)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses(SpringBootTestContextBootstrapper.java:173)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.processMergedContextConfiguration(SpringBootTestContextBootstrapper.java:133)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:409)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildDefaultMergedContextConfiguration(AbstractTestContextBootstrapper.java:323)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:277)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildTestContext(AbstractTestContextBootstrapper.java:112)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.buildTestContext(SpringBootTestContextBootstrapper.java:78)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:120)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:105)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTestContextManager(SpringJUnit4ClassRunner.java:152)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.<init>(SpringJUnit4ClassRunner.java:143)
+	at org.springframework.test.context.junit4.SpringRunner.<init>(SpringRunner.java:49)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:104)
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:86)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:33)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]></error>
+    <system-out><![CDATA[13:50:08.493 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class santoshApp.SpringStarterApplicationTests]
+13:50:08.493 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+13:50:08.508 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+13:50:08.524 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [santoshApp.SpringStarterApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+13:50:08.524 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [santoshApp.SpringStarterApplicationTests], using SpringBootContextLoader
+13:50:08.539 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [santoshApp.SpringStarterApplicationTests]: class path resource [santoshApp/SpringStarterApplicationTests-context.xml] does not exist
+13:50:08.539 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [santoshApp.SpringStarterApplicationTests]: class path resource [santoshApp/SpringStarterApplicationTestsContext.groovy] does not exist
+13:50:08.539 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [santoshApp.SpringStarterApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+13:50:08.539 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [santoshApp.SpringStarterApplicationTests]: SpringStarterApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:50:08.571 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [santoshApp.SpringStarterApplicationTests]
+13:50:08.586 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+13:50:08.586 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+13:50:08.586 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+13:50:08.602 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [santoshApp/] to resources [URL [file:/C:/Angular_Dev/santosh-spring-app-master/target/test-classes/santoshApp/]]
+13:50:08.602 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp]
+13:50:08.602 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp] for files matching pattern [C:/Angular_Dev/santosh-spring-app-master/target/test-classes/santoshApp/*.class]
+13:50:08.602 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:santoshApp/*.class] to resources [file [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp\GreetingControllerTests.class], file [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp\SpringStarterApplicationTests.class]]
+13:50:08.617 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class santoshApp.SpringStarterApplicationTests]
+13:50:08.617 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+13:50:08.617 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+13:50:08.617 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [santoshApp.SpringStarterApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+13:50:08.617 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [santoshApp.SpringStarterApplicationTests], using SpringBootContextLoader
+13:50:08.633 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [santoshApp.SpringStarterApplicationTests]: class path resource [santoshApp/SpringStarterApplicationTests-context.xml] does not exist
+13:50:08.633 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [santoshApp.SpringStarterApplicationTests]: class path resource [santoshApp/SpringStarterApplicationTestsContext.groovy] does not exist
+13:50:08.633 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [santoshApp.SpringStarterApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+13:50:08.633 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [santoshApp.SpringStarterApplicationTests]: SpringStarterApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:50:08.633 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [santoshApp.SpringStarterApplicationTests]
+13:50:08.633 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+13:50:08.633 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+13:50:08.633 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+13:50:08.633 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [santoshApp/] to resources [URL [file:/C:/Angular_Dev/santosh-spring-app-master/target/test-classes/santoshApp/]]
+13:50:08.633 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp]
+13:50:08.633 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp] for files matching pattern [C:/Angular_Dev/santosh-spring-app-master/target/test-classes/santoshApp/*.class]
+13:50:08.649 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:santoshApp/*.class] to resources [file [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp\GreetingControllerTests.class], file [C:\Angular_Dev\santosh-spring-app-master\target\test-classes\santoshApp\SpringStarterApplicationTests.class]]
+]]></system-out>
+  </testcase>
+</testsuite>
